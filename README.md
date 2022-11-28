@@ -26,6 +26,9 @@
  09) 'alt + shift + r'         # To auto-type answer
  10) 'Exit' in menu            # To close app see systemtray and click 
 
+## Output:
+
+<img src="https://github.com/prasanna892/PyQt5-Math-solver-from-image/blob/main/SimpleMathSolver%20(1).gif" />
 
 ## Contact:
 
